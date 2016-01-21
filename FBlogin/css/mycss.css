@@ -1,0 +1,25 @@
+.greeting {
+    text-align: center;
+    color:dimgrey
+}
+#PFLHS {
+    width: 250px;
+    height: 80px;
+}
+#HYU {
+    width: 250px;
+    height: 70px;
+}
+#SMASH {
+    width: 160px;
+    height: 80px
+}
+.logo {
+    text-align: center;
+}
+.movie {
+    text-align: center;
+}
+.a {
+    color:aliceblue;
+}
